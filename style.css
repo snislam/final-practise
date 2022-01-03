@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  color: #f9f9f9;
+  background-color: #202020;
+  text-align: center;
+  padding: 35px;
+}
+.blog-container {
+  width: 100%;
+  text-align: left;
+  padding: 35px 50px;
+  background-color: #f9f9f9;
+}
+p {
+  text-align: justify;
+  color: #202020;
+  font-size: 20px;
+}
+.btn {
+  padding: 20px 35px;
+  color: #f9f9f9;
+  background-color: #202020;
+  border-radius: 5px;
+  text-decoration: none;
+  margin: 20px 50px 20px 0px;
+}
+.btn-div {
+  margin: 35px 0;
+}
+img {
+  width: auto;
+  height: 300px;
+  margin: 45px auto;
+}
